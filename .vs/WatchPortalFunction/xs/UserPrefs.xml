@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{C164D853-4A99-4D5C-8EC3-50CE42CA4EB6}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C164D853-4A99-4D5C-8EC3-50CE42CA4EB6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="WatchFunctionsTests/WatchFunctionsTests.csproj">
     <Files>
       <File FileName="WatchPortalFunction/WatchPortalFunction.cs" Line="1" Column="1" />
